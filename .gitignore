@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data directory (dataset will be downloaded)
+data/
+Kvasir-SEG/
+
+# Saved models (too large for git)
+saved_models/
+*.pth
+*.pt
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Temporary PowerPoint files
+~$*.pptx
+
+# Logs
+*.log
+logs/
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+!assets/*.png
+!assets/*.jpg
+
+# Large files
+*.zip
+*.tar.gz

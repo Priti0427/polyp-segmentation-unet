@@ -1,0 +1,17 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing
+numpy>=1.24.0
+pillow>=9.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress Bar
+tqdm>=4.65.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
