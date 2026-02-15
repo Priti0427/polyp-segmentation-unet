@@ -66,11 +66,11 @@ jupyter notebook UNet_Polyp_Segmentation.ipynb
 
 ```
 polyp-segmentation-unet/
-├── UNet_Polyp_Segmentation.ipynb   # Main notebook with all experiments
-├── UNet_Polyp_Segmentation_Proposal.pptx  # Project proposal presentation
-├── requirements.txt                 # Python dependencies
-├── README.md                        # This file
-└── .gitignore                       # Git ignore rules
+├── UNet_Polyp_Segmentation.ipynb   
+├── UNet_Polyp_Segmentation_Proposal.pptx  
+├── requirements.txt                
+├── README.md                        
+└── .gitignore                       
 ```
 
 ## Results
@@ -81,18 +81,15 @@ polyp-segmentation-unet/
 | Shallow UNet (depth=2) | ~0.78 | ~0.68 |
 | UNet without skip connections | ~0.70 | ~0.60 |
 
-*Results may vary based on training runs*
+
 
 ## References
-
 1. Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI.
 2. Jha, D., et al. (2020). Kvasir-SEG: A Segmented Polyp Dataset. MMM 2020.
 3. Fan, D.P., et al. (2020). PraNet: Parallel Reverse Attention Network for Polyp Segmentation. MICCAI 2020.
 
 ## License
-
 This project is for educational purposes as part of a Deep Learning course at Drexel University.
 
 ## Author
-
-Deep Learning Final Project - Winter Quarter 2026
+Priti Sagar
