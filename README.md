@@ -41,7 +41,7 @@ Key components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/polyp-segmentation-unet.git
+git clone [https://github.com/YOUR_USERNAME/polyp-segmentation-unet.git](https://github.com/Priti0427/polyp-segmentation-unet)
 cd polyp-segmentation-unet
 
 # Install dependencies
