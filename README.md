@@ -75,11 +75,17 @@ polyp-segmentation-unet/
 
 ## Results
 
-| Model Configuration | Dice | IoU |
-|---------------------|------|-----|
-| Standard UNet (depth=4, with skip) | ~0.82 | ~0.74 |
-| Shallow UNet (depth=2) | ~0.78 | ~0.68 |
-| UNet without skip connections | ~0.70 | ~0.60 |
+Final test set evaluation for the **Standard UNet with Skip Connections** from `UNet_Polyp_Segmentation_Final.ipynb`:
+
+| Metric | Value |
+|--------|-------|
+| Loss | 0.1749 |
+| Dice | 0.8412 |
+| IoU | 0.7315 |
+| Precision | 0.8893 |
+| Recall | 0.8091 |
+
+These values are taken from the final test set evaluation in `UNet_Polyp_Segmentation_Final.ipynb`.
 
 
 
