@@ -97,5 +97,3 @@ These values are taken from the final test set evaluation in `UNet_Polyp_Segment
 ## License
 This project is for educational purposes as part of a Deep Learning course at Drexel University.
 
-## Author
-Priti Sagar
