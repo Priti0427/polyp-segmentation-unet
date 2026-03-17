@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Run in Google Colab (Recommended)
+### Run in Google Colab
 
 1. Upload `UNet_Polyp_Segmentation.ipynb` to Google Colab
 2. Enable GPU: Runtime → Change runtime type → GPU
@@ -75,7 +75,7 @@ polyp-segmentation-unet/
 
 ## Results
 
-Final test set evaluation for the **Standard UNet with Skip Connections** from `UNet_Polyp_Segmentation_Final.ipynb`:
+Final test set evaluation for the **Standard UNet with Skip Connections**:
 
 | Metric | Value |
 |--------|-------|
@@ -85,7 +85,6 @@ Final test set evaluation for the **Standard UNet with Skip Connections** from `
 | Precision | 0.8893 |
 | Recall | 0.8091 |
 
-These values are taken from the final test set evaluation in `UNet_Polyp_Segmentation_Final.ipynb`.
 
 
 
